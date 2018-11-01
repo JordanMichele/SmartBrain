@@ -8,7 +8,7 @@ const ImageLinkForm = () => {
             {'This Magic Brain will detect faces in your pictures. Give it a try '}
         </p>
         <div>
-
+            
         </div>
     </div>
   );
