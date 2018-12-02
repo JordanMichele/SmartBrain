@@ -10,7 +10,7 @@ const Logo = () => {
       <Tilt
         className="Tilt br2 shadow-2"
         options={{ max: 50 }}
-        style={{ height: 250, width: 250 }}
+        style={{ height: 150, width: 150 }}
       >
         <div className="Tilt-inner pa2">
           <img style={{ paddingTop: "35px" }} src={GoBlue} />
